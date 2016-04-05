@@ -2,4 +2,4 @@
 
 Created as part of The Firehose Project prework
 
-Access page [here](http://strongdan.github.io/firehose-splash-page)
+You can view the pages [here](http://strongdan.github.io/firehose-splash-page)
